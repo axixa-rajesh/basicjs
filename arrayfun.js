@@ -3,7 +3,6 @@ let b = a.map(v => true);
 let c = a.filter(v => true);
 console.log(b);
 console.log(c);
-
 // let b = a.map((val)=>(val%2==0)?val+2:val);
 // let b = a.filter(function (val) {
 //     if (val % 2 == 0)
